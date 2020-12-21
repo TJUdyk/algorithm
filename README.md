@@ -1,5 +1,9 @@
 ### https://www.nowcoder.com/ta/job-code-high刷题网址
 
+[toc]
+
+
+
 ### NC78：反转链表
 
 ```python
