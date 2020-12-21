@@ -1,6 +1,5 @@
 ### https://www.nowcoder.com/ta/job-code-high刷题网址
-
-- [https://www.nowcoder.com/ta/job-code-high刷题网址](#https---wwwnowcodercom-ta-job-code-high----)
+(#https---wwwnowcodercom-ta-job-code-high----)
 - [NC78：反转链表](#nc78反转链表)
 - [NC93：设计LRU缓存结构](#nc93设计lru缓存结构)
 - [NC105：二分查找](#nc105二分查找)
@@ -45,8 +44,6 @@
 - [NC121字符串排列](#nc121字符串排列)
 - [NC90:设计getmin栈的操作](#nc90设计getmin栈的操作)
 - [NC7:买股票的最佳时机](#nc7买股票的最佳时机)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ### NC78：反转链表
 
