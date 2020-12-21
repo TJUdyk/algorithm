@@ -1,7 +1,7 @@
 ### https://www.nowcoder.com/ta/job-code-high刷题网址
 
 - [https://www.nowcoder.com/ta/job-code-high刷题网址](#https---wwwnowcodercom-ta-job-code-high----)
-- [NC78：反转链表](#nc78-----)
+- [NC78：反转链表](#nc78反转链表)
 - [NC93：设计LRU缓存结构](#nc93---lru----)
 - [NC105：二分查找](#nc105-----)
 - [NC4：断链表是否有环](#nc4--------)
